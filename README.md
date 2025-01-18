@@ -89,7 +89,7 @@ Memory-Table
 
 0x529958 : "@Seed_Chan"
 
-0x529984 : FREE
+0x529994 : FREE
 
 0x52B000 : wstring displayString(std::wstring const&, int x, int y, int textcolor, int textalign, float scale):
 
