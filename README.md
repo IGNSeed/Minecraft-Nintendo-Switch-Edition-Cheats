@@ -87,7 +87,7 @@ Memory-Table
 
 0x529924 : "Durability: "
 
-0x529958 : "Youtube: @Seed_Chan"
+0x529958 : "@Seed_Chan"
 
 0x5299A8 : FREE
 
