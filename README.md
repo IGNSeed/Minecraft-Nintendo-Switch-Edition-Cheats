@@ -87,7 +87,7 @@ Memory-Table
 
 0x529924 : "Durability: "
 
-0x529958 : "@Seed_Chan"
+0x529958 : "[ @Seed_Chan ]"
 
 0x529994 : FREE
 
