@@ -49,7 +49,7 @@ Memory-Table
 
 0x527644 : FREE
 
-## Tutorial::AddHints(void) : 0x52946C ~ 0x
+## Tutorial::AddHints(void) : 0x52946C ~ 0x52B438
 
 0x52946C : Tutorial::AddHints(void) RET
 
@@ -99,7 +99,7 @@ Memory-Table
 
 0x52B43C : FREE
 
-## RGB Master Function : 0x9CBC50 ~
+## RGB Master Function : 0x9CBC50 ~ 0x9CBDB8
 
 0x9CBC50 : RGB Master Function
 
