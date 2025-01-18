@@ -1,1 +1,1 @@
-# Minecraft-Nintendo-Switch-Edition-Cheats
+# Memory-Table
