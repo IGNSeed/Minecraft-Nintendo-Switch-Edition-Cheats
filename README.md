@@ -7,6 +7,18 @@ Memory-Table
 
 0x6A2664 : FREE
 
+## renderScenes
+
+0x553590 : Aimbot
+
+0x5535AC : Debug Display
+
+0x5535D0 : Debug Text
+
+0x5535F4 : 未使用
+
+0x6AF450 : HP in Nametag V2
+
 ## Tutorial::tick(void) : 0x520C50 ~ 0x5218F8
 
 0x520C50 : Tutorial::tick(void) RET
