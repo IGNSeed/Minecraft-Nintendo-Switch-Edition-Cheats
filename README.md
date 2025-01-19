@@ -1,5 +1,5 @@
 Memory-Table
-## LevelRenderer::renderSky((float)) : 0x6A2100 ~ 0x6A2660
+## LevelRenderer::renderSky((float)) : 0x6A2100 ~ 0x6A2A94
 
 0x6A2100 : Customsky();
 
@@ -7,7 +7,7 @@ Memory-Table
 
 0x6A2664 : FREE
 
-## Tutorial::tick(void) : 0x520C50 ~ 0x521608
+## Tutorial::tick(void) : 0x520C50 ~ 0x5218F8
 
 0x520C50 : Tutorial::tick(void) RET
 
@@ -43,13 +43,13 @@ Memory-Table
 
 0x52160C : FREE
 
-## Tutorial::staticCtor(void) : 0x524554 ~ 0x527640
+## Tutorial::staticCtor(void) : 0x524554 ~ 0x529468
 
 0x524554 : ModMenu
 
 0x527644 : FREE
 
-## Tutorial::AddHints(void) : 0x52946C ~ 0x52B438
+## Tutorial::AddHints(void) : 0x52946C ~ 0x52FE34
 
 0x52946C : Tutorial::AddHints(void) RET
 
@@ -99,7 +99,7 @@ Memory-Table
 
 0x52B43C : FREE
 
-## RGB Master Function : 0x9CBC50 ~ 0x9CBDB8
+## RGB Master Function : 0x9CBC50 ~ 0x9CBFFC
 
 0x9CBC50 : RGB Master Function
 
