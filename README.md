@@ -98,13 +98,13 @@ Memory-Table
 
 0x5298B8 : "[Mod Menu] ModMenu Enabled"
 
-0x529924 : "Durability: "
-
 0x529958 : "[ @Seed_Chan ]"
 
 0x529994 : "%.2f m/s"
 
-0x5299B8 : FREE
+0x5299B8 : "Durability: "
+
+0x5299E8 : FREE
 
 0x52B000 : wstring displayString(std::wstring const&, int x, int y, int textcolor, int textalign, float scale):
 
