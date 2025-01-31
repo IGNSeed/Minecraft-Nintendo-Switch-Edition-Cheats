@@ -110,9 +110,9 @@ Memory-Table
 
 0x52B0E8 : Debug Display
 
-0x52B42C : FREE
+0x52B42C : Debug Text
 
-0x52FD94 : Debug Text
+0x52B4C8 : FREE
 
 ## RGB Master Function : 0x9CBC50 ~ 0x9CBFFC
 
