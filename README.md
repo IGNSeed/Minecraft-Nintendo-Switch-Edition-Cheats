@@ -54,7 +54,9 @@ Memory-Table
 
 0x521534 : HP in Nametag V2
 
-0x52160C : FREE
+0x52160C : Shiny Pot
+
+0x52165C : FREE
 
 ## Tutorial::staticCtor(void) : 0x524554 ~ 0x529468
 
