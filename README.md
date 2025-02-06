@@ -116,7 +116,7 @@ Memory-Table
 
 0x529A1C : direction
 
-0x529B98 : FREE
+0x529B9C : FREE
 
 0x52B000 : wstring displayString(std::wstring const&, int x, int y, int textcolor, int textalign, float scale):
 
