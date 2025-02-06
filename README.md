@@ -10,15 +10,33 @@ Memory-Table
 
 ## renderScenes
 
-0x553590 : Aimbot
+0x553590 : Aimbot V3
 
-0x5535AC : Debug Display
+0x5535AC : renderScenes Function
 
-0x5535D0 : Debug Text
+0x5535D0 : Advertisement Text
 
-0x5535F4 : CPS
+0x5535F4 : 未使用
 
 0x6AF450 : HP in Nametag V2
+
+## renderScenes Function 0x520AC4 ~ 0x520B50
+
+0x520AD0 : GameTitle
+
+0x520AD4 : FPS
+
+0x520AD8 : XYZ
+
+0x520ADC : Position
+
+0x520AE0 : YawPitch
+
+0x520AE4 : Speed
+
+0x520AE8 : CPS
+
+0x520AEC : DirectionHUD
 
 ## Tutorial::tick(void) : 0x520C50 ~ 0x5218F8
 
@@ -118,13 +136,27 @@ Memory-Table
 
 0x529B9C : FREE
 
+0x52AEB8 : void display2DBox(int x, int y, int sizeX, int sizeY, int textcolor, int opacity):
+
 0x52B000 : wstring displayString(std::wstring const&, int x, int y, int textcolor, int textalign, float scale):
 
-0x52B0E8 : Debug Display
+0x52B0E8 : GameTitle
 
-0x52B42C : Debug Text
+0x52B180 : FPS
 
-0x52B4C8 : FREE
+0x52B25C : XYZ
+
+0x52B30C : Position
+
+0x52B3C0 : YawPitch
+
+0x52B470 : Speed
+
+0x52B530 : Advertisement Text
+
+0x52B5CC : DirectionHUD
+
+0x52B820 : FREE
 
 ## RGB Master Function : 0x9CBC50 ~ 0x9CBFFC
 
