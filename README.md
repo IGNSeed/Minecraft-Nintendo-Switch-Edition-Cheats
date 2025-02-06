@@ -16,7 +16,7 @@ Memory-Table
 
 0x5535D0 : Debug Text
 
-0x5535F4 : 未使用
+0x5535F4 : CPS
 
 0x6AF450 : HP in Nametag V2
 
