@@ -112,7 +112,11 @@ Memory-Table
 
 0x5299EC : "CPS %d:%d"
 
-0x529A14 : FREE
+0x529A14 : "|"
+
+0x529A1C : direction
+
+0x529B94 : FREE
 
 0x52B000 : wstring displayString(std::wstring const&, int x, int y, int textcolor, int textalign, float scale):
 
