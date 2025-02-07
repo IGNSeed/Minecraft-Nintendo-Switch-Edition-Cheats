@@ -38,6 +38,8 @@ Memory-Table
 
 0x520AEC : DirectionHUD
 
+0x520AF0 : KeyStrokes
+
 ## Tutorial::tick(void) : 0x520C50 ~ 0x5218F8
 
 0x520C50 : Tutorial::tick(void) RET
@@ -156,7 +158,9 @@ Memory-Table
 
 0x52B5CC : DirectionHUD
 
-0x52B820 : FREE
+0x52B820 : KeyStroke
+
+0x52BB40 : FREE
 
 ## RGB Master Function : 0x9CBC50 ~ 0x9CBFFC
 
