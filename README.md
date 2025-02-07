@@ -106,8 +106,6 @@ Memory-Table
 
 0x529574 : "XYZ: %.3f / %.5f / %.3f"
 
-0x5295D4 : "%.0f fps"
-
 0x5295F0 : "Yaw: %.0f | Pitch: %.0f"
 
 0x529650 : String "Block: %.0f %.0f %.0f"
@@ -156,7 +154,9 @@ Memory-Table
 
 0x529C9C : [%.2f blocks]
 
-0x529CD4 : FREE
+0x529CD4 : %.0f fps
+
+0x529CF8 : FREE
 
 0x52AEB8 : void display2DBox(int x, int y, int sizeX, int sizeY, int textcolor, int opacity):
 
