@@ -190,7 +190,7 @@ Memory-Table
 
 0x52BD84 : OWN Color
 
-0x52BD90 : FREE
+0x52BDA8 : FREE
 
 ## RGB Master Function : 0x9CBC50 ~ 0x9CBFFC
 
