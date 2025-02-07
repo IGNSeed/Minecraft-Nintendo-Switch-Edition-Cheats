@@ -12,11 +12,11 @@ Memory-Table
 
 0x553590 : Aimbot V3
 
-0x5535AC : renderScenes Function
+0x5535AC : 未使用
 
 0x5535D0 : Advertisement Text
 
-0x5535F4 : 未使用
+0x5535F4 : renderScenes Function
 
 0x6AF450 : HP in Nametag V2
 
@@ -39,6 +39,12 @@ Memory-Table
 0x520AEC : DirectionHUD
 
 0x520AF0 : KeyStrokes
+
+0x520AF4 : MovementState
+
+0x520AF8 : Reach Display
+
+0x520AFC : ArmorHUD+
 
 ## Tutorial::tick(void) : 0x520C50 ~ 0x5218F8
 
@@ -136,7 +142,21 @@ Memory-Table
 
 0x529A1C : S, 15, 30, SW, 60, 75, W, 105, 120, NW, 150, 165, N, 195, 210, NE, 240, 255, E, 285, 300, SE, 330, 345
 
-0x529B9C : FREE
+0x529B9C : OnGround
+
+0x529BC0 : [Flying]
+
+0x529BE4 : Key Held
+
+0x529C08 : Toggled
+
+0x529C28 : [Sprinting (%ls)]
+
+0x529C70 : [Sneaking]
+
+0x529C9C : [%.2f blocks]
+
+0x529CD4 : FREE
 
 0x52AEB8 : void display2DBox(int x, int y, int sizeX, int sizeY, int textcolor, int opacity):
 
@@ -160,7 +180,15 @@ Memory-Table
 
 0x52B820 : KeyStroke
 
-0x52BA30 : FREE
+0x52BA30 : MovementState
+
+0x52BB78 : Reach Measurement
+
+0x52BC04 : Reach Display
+
+0x52BC94 : ArmorHUD+
+
+0x52BD84 : FREE
 
 ## RGB Master Function : 0x9CBC50 ~ 0x9CBFFC
 
