@@ -188,7 +188,9 @@ Memory-Table
 
 0x52BC94 : ArmorHUD+
 
-0x52BD84 : FREE
+0x52BD84 : OWN Color
+
+0x52BD90 : FREE
 
 ## RGB Master Function : 0x9CBC50 ~ 0x9CBFFC
 
