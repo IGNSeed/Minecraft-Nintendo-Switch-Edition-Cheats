@@ -160,7 +160,7 @@ Memory-Table
 
 0x52B820 : KeyStroke
 
-0x52BB40 : FREE
+0x52BA30 : FREE
 
 ## RGB Master Function : 0x9CBC50 ~ 0x9CBFFC
 
