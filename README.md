@@ -82,11 +82,11 @@ Memory-Table
 
 0x52160C : Shiny Pot
 
-0x52165C : Render GUI
+0x521674 : Render GUI
 
-0x5216D8 : CPS
+0x5216F4 : CPS
 
-0x5217B4 : FREE
+0x5217D4 : FREE
 
 ## Tutorial::staticCtor(void) : 0x524554 ~ 0x529468
 
