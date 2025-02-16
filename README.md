@@ -156,7 +156,13 @@ Memory-Table
 
 0x529CD4 : %.0f fps
 
-0x529CF8 : FREE
+0x529CF8 : (X:%.0f,Y:%.0f,Z:%.0f)
+
+0x529D5C : FPS:%d
+
+0x529D78 : | On Ground
+
+0x529DAC : FREE
 
 0x52AEB8 : void display2DBox(int x, int y, int sizeX, int sizeY, int textcolor, int opacity):
 
@@ -190,7 +196,9 @@ Memory-Table
 
 0x52BD84 : OWN Color
 
-0x52BDA8 : FREE
+0x52BDA8 : OriginalGUI
+
+0x52BF44 : FREE
 
 ## RGB Master Function : 0x9CBC50 ~ 0x9CBFFC
 
