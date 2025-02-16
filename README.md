@@ -162,7 +162,7 @@ Memory-Table
 
 0x529D78 : | On Ground
 
-0x529DAC : FREE
+0x529DAC : | %.2f m/s
 
 0x52AEB8 : void display2DBox(int x, int y, int sizeX, int sizeY, int textcolor, int opacity):
 
