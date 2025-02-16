@@ -198,7 +198,7 @@ Memory-Table
 
 0x52BDA8 : OriginalGUI
 
-0x52BF44 : FREE
+0x52BFD0 : FREE
 
 ## RGB Master Function : 0x9CBC50 ~ 0x9CBFFC
 
