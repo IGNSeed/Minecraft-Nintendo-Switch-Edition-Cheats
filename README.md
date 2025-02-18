@@ -14,7 +14,7 @@ Memory-Table
 
 0x5535AC : 未使用
 
-0x5535D0 : Advertisement Text
+0x5535D0 : Original GUI
 
 0x5535F4 : renderScenes Function
 
