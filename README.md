@@ -12,7 +12,7 @@ Memory-Table
 
 0x553590 : Aimbot V3
 
-0x5535AC : 未使用
+0x5535AC : CPS
 
 0x5535D0 : Original GUI
 
